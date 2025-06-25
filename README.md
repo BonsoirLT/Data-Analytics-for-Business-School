@@ -5,8 +5,7 @@ Welcome! This repository contains my Python learning notes exported from Notion 
 👉 Click below to view the guide:
 
 - [📒 Jupyter Environment Setup Guide](0-Setting%20Up%20Your%20Python%20Learning%20Lab%20with%20Jupyter.md)
-- [![Jupyter Environment Setup Guide– Youtube Video](https://img.youtube.com/vi/ij0-8af2iBo/0.jpg)](https://youtu.be/ij0-8af2iBo)
-
+ **Corresponding tutorial video**: [https://youtu.be/ij0-8af2iBo](https://youtu.be/ij0-8af2iBo)
 ---
 
 More learning content coming soon!
